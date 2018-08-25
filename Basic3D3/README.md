@@ -1,4 +1,4 @@
-# GoDot - Básico de criação em 3d
+# GoDot - Guia básico de criação de jogo em 3d
 
 Série de videos em: https://www.youtube.com/watch?v=-D-IcbsdT04
 
