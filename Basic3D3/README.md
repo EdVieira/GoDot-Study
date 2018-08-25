@@ -7,7 +7,7 @@ Série de videos em: https://www.youtube.com/watch?v=-D-IcbsdT04
 
 
 
-## Jogo de pular entre plataformas rampa e empurrar uma bola no gol.
+## Jogo de pular entre plataformas com a rampa e empurrar a bola no gol.
 
 
 
