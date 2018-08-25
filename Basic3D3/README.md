@@ -1,5 +1,7 @@
 # GoDot - Criação em 3d
 
+Série de videos em: https://www.youtube.com/watch?v=-D-IcbsdT04
+
 (Depois vou ajustar a usando ou portugues ou inglês)
 
 ## Comandos básicos
