@@ -1,7 +1,7 @@
 # GoDot - Guia básico de criação de jogo em 3d
 
 
-Série de videos em: https://www.youtube.com/watch?v=-D-IcbsdT04
+Relatrio baseado na série de videos em: https://www.youtube.com/watch?v=-D-IcbsdT04
 
 (Depois vou ajustar o texto para portugues / inglês. Por agora está misturado)
 
