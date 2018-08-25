@@ -1,10 +1,17 @@
 # GoDot - Guia básico de criação de jogo em 3d
 
+
 Série de videos em: https://www.youtube.com/watch?v=-D-IcbsdT04
 
-(Depois vou ajustar a usando ou portugues ou inglês)
+(Depois vou ajustar o texto para portugues / inglês. Por agora está misturado)
 
-## Comandos básicos
+
+
+## Jogo de pular entre plataformas rampa e empurrar uma bola no gol.
+
+
+
+## Comandos básicos da engine
 mousebutton3 = Rotate camera
 Shift+mousebutton3 = Strafe camera
 Ctrl+mousebutton3 = Zoom camera
