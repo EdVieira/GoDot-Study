@@ -1,7 +1,7 @@
 # GoDot - Guia básico de criação de jogo em 3d
 
 
-Relatrio baseado na série de videos em: https://www.youtube.com/watch?v=-D-IcbsdT04
+Relatório da série de videos em: https://www.youtube.com/watch?v=-D-IcbsdT04
 
 (Depois vou ajustar o texto para portugues / inglês. Por agora está misturado)
 
@@ -11,7 +11,7 @@ Relatrio baseado na série de videos em: https://www.youtube.com/watch?v=-D-Icbs
 
 
 
-## Comandos básicos da engine
+## Atalhos da engine
 mousebutton3 = Rotate camera
 Shift+mousebutton3 = Strafe camera
 Ctrl+mousebutton3 = Zoom camera
